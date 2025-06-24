@@ -66,7 +66,8 @@ Order status, product name, and delivery info may be listed.
 
 8. Edit Account
 Allows user to update name, contact details, etc.
-![image](https://github.com/user-attachments/assets/a65af647-ebd5-4779-8ac4-3458a7635c63)
+![image](https://github.com/user-attachments/assets/74b242b1-4775-4b67-b4ee-dc4ea6aa89d8)
+
 
  9. Change Password
 Users can securely update their account password.
@@ -74,11 +75,13 @@ Users can securely update their account password.
 
 10. My Wishlist
 Displays products the user has saved for future purchase.
-![image](https://github.com/user-attachments/assets/9258fa10-b3da-44df-9578-df8697fd09c8)
+![image](https://github.com/user-attachments/assets/31637064-73e8-455d-956e-2438006a6fc6)
+
 
 11. Delete Account
 Option for users to permanently delete their account.
-![image](https://github.com/user-attachments/assets/c0a01900-c35f-47f3-979f-2d434b543077)
+![image](https://github.com/user-attachments/assets/5c84baad-bf70-488d-bf13-c8b51ed5fdc4)
+
 
  Admin Section
 13. Admin Login
