@@ -143,12 +143,14 @@ Add new admin/staff accounts.
 ![image](https://github.com/user-attachments/assets/c2a78565-bc72-4b9e-9274-33a4ace5115a)
 b. View User:
 List of current admin/staff.
+![image](https://github.com/user-attachments/assets/7754d4ef-7cda-4556-b0d6-37a2e23dcbc9)
 
-![image](https://github.com/user-attachments/assets/e172f6e8-8b48-4f98-ac5a-ae8e128a4e27)
 c. Edit Profile:
 Allows admin to update their own profile.
+![image](https://github.com/user-attachments/assets/869f7dcc-a85e-41ca-9c0a-9b83d072f337)
 
-![image](https://github.com/user-attachments/assets/c9b1c94f-c759-4a9a-9e1d-a30ca7dd9926)
+
+
 
 
 
