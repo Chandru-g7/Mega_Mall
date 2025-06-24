@@ -124,19 +124,22 @@ Admin can create discount codes.
 ![image](https://github.com/user-attachments/assets/3799aed8-ee5f-46f3-9afd-ce7a015c8475)
 b. View Coupon:
 Shows active/expired coupons.
-![image](https://github.com/user-attachments/assets/0770492f-253a-4048-a213-f38accbd66d4)
+![image](https://github.com/user-attachments/assets/34efc111-3df9-4dd0-a4e9-baba29d898f9)
+
 
 20. Customers, Orders, Payments
 a. View Customers:
 List of all registered users.
 ![image](https://github.com/user-attachments/assets/38a6a2e0-552c-4f96-9628-0f826574abab)
 b. View Orders:
-Tracks all orders placed by users.![image](https://github.com/user-attachments/assets/b40b70e0-5dc5-4754-9e00-47a060c2f7df)
+Tracks all orders placed by users.
+![image](https://github.com/user-attachments/assets/2693c8e5-54ca-4c6f-9ad8-5fe87cacbf3a)
+
 c. View Payments:
 Shows payment history and status.
 ![image](https://github.com/user-attachments/assets/6cb249e2-55a7-4f5c-9a88-fde93e1e717f)
 
-21. Users
+22. Users
 a. Insert User:
 Add new admin/staff accounts.
 
