@@ -90,9 +90,10 @@ Secure login page for the admin.
 
 14. Admin Dashboard
 Admin homepage showing quick stats (orders, users, revenue).
-![image](https://github.com/user-attachments/assets/b7ae84de-0df6-4bbe-8e75-c94fbe29135e)
+![image](https://github.com/user-attachments/assets/918fd569-5993-4fa3-af44-3c3919d651ab)
 
- 15. Products
+
+ 16. Products
 Admin can manage product listings.
 a. Insert Product:
 Form to add a new product with image, category, price, etc.
@@ -101,7 +102,7 @@ b. View Products:
 Table view of all products with options to edit/delete.
 ![image](https://github.com/user-attachments/assets/ff8f2140-72ce-46d9-bfaf-9e04d437ee84)
 
-16. Manufacturers
+17. Manufacturers
 a. Insert Manufacturer:
 Add brand or manufacturer name.
 ![image](https://github.com/user-attachments/assets/53549e0a-0211-4758-8892-cfca05c77ccc)
@@ -109,19 +110,21 @@ b. View Manufacturer:
 List and manage all brands/manufacturers.
 ![image](https://github.com/user-attachments/assets/e4f1be45-60a9-4d3e-8084-f286da2ac909)
 
-17. Categories
+18. Categories
 a. Insert Category:
 Add new product categories (e.g., Electronics, Clothing).
 ![image](https://github.com/user-attachments/assets/1692b09e-e058-4a87-8150-1a63a7b8dfce)
 b. View Category:
 List of all categories with edit/delete options.
-![image](https://github.com/user-attachments/assets/b99cab2e-d3ea-4c0c-abbe-40db70cd867a)
+![image](https://github.com/user-attachments/assets/512f826f-f00d-4ebf-bfa5-d92a1ee3fe49)
 
-18. Edit Our Page
+
+19. Edit Our Page
 Possibly a content management section for About Us, Contact, etc.
-![image](https://github.com/user-attachments/assets/e9f2d848-76e5-4c21-ada7-13d6247826ba)
+![image](https://github.com/user-attachments/assets/c3e267d7-415a-4370-89c2-84c743cfb8a9)
 
-19. Coupons
+
+20. Coupons
 a. Insert Coupon:
 Admin can create discount codes.
 ![image](https://github.com/user-attachments/assets/3799aed8-ee5f-46f3-9afd-ce7a015c8475)
@@ -130,7 +133,7 @@ Shows active/expired coupons.
 ![image](https://github.com/user-attachments/assets/34efc111-3df9-4dd0-a4e9-baba29d898f9)
 
 
-20. Customers, Orders, Payments
+21. Customers, Orders, Payments
 a. View Customers:
 List of all registered users.
 ![image](https://github.com/user-attachments/assets/38a6a2e0-552c-4f96-9628-0f826574abab)
