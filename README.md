@@ -26,3 +26,9 @@ The Mega Mall Website is a full-featured e-commerce platform designed to simulat
 | **Admin** | • Secure admin login<br>• Dashboard metrics<br>• CRUD for products, manufacturers & categories<br>• Coupon management<br>• View/manage customers, orders, payments<br>• Create new admin/staff users |
 | **General** | • Responsive layout<br>• Clean URL structure (`index.php`, `cart.php`, etc.)<br>• Session-based authentication<br>• MySQL relational database |
 
+---
+1. Index.php (Homepage)
+This is the landing page of the Mega Mall.
+Includes navigation links to other pages (login, register, products).
+Contains product showcases, banners, and promotions.
+![image](https://github.com/user-attachments/assets/ab3bbeff-c9c1-401c-9042-22538e43f154)
